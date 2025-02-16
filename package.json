@@ -1,0 +1,29 @@
+{
+  "name": "qian",
+  "version": "1.0.0",
+  "description": "Vue.js Project",
+  "main": "src/main.js",
+  "devDependencies": {
+    "vue": "^3.2.0",
+    "vite": "^4.0.0",
+    "vue-router": "^4.0.0",
+    "pinia": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://your-repository-url.git"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "vite",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
